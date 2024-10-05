@@ -3,7 +3,7 @@ Proyecto para la asignatura Diseño de Software Sección 2
 - Manuel Vergara
 - Jorge Romero
 
-Nos inspiramos en la página Humanbenchmark para hacer nuestra propia página web con diferentes tipos de tests.
+Hicimos nuestra propia página web con diferentes tipos de tests.
 Hicimos 3 tipos de tests diferentes, uno para medir el tiempo de reacción, otro la memoria numérica y otro la memoria de secuencias visual. 
 * Reacción: El usuario debe hacer clic en la pantalla cuando un cuadro se vuelve verde, midiendo el tiempo de reacción. Esto incluye un temporizador aleatorio y un registro de los tiempos de reacción. Cada 5 rondas calcula el promedio de los tiempos de reacción del usuario y lo muestra en pantalla.
 * Numérica:  El usuario debe recordar un número que se muestra brevemente en pantalla. Después de un tiempo, se le pide que ingrese el número recordado. Por cada ronda el número va aumentando 1 dígito. Se genera un número aleatorio y valida la respuesta ingresada por el usuario.
